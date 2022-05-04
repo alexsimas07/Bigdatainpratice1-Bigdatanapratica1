@@ -28,7 +28,7 @@ country_list <- filter(countries, is.na(parents))
 ########## UI - User Interface ##########
 
 # https://rstudio.github.io/shinythemes/
-ui <- navbarPage(theme = shinytheme("cerulean"),
+ui <- navbarPage(theme = shinytheme("superhero"),
                 
                  "Big Data na Prática 2",
                  
