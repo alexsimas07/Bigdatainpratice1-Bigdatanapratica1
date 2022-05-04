@@ -300,7 +300,7 @@ country_list <- filter(countries, is.na(parents))
 
 # https://rstudio.github.io/shinythemes/  - site para visualizar themas do Shiny 
 
-ui <- navbarPage(theme = shinytheme("cerulean"),
+ui <- navbarPage(theme = shinytheme("superhero"),
 
                 "Big Data na Prática 2", 
 
